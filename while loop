@@ -8,3 +8,15 @@ int main(){
     }
     return 0;
 }
+these are two separate operations!!!
+#include <stdio.h>
+
+int main(){
+    int i=0;
+    while(i<10){
+        printf("The value of i is\n");
+        i++;
+    }
+    
+    return 0;
+}
